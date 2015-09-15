@@ -43,7 +43,12 @@ class WorldbankScript(Script):
                     f = urllib2.urlopen(url)
                     data = ET.parse(f)
                     timestamp = time.mktime(datetime.datetime.strptime('1902', "%Y").timetuple())
+
                     for wpdata in data.getroot():
+                        try:
+                            timestamp = time.mktime(datetime.datetime.strptime(wpdata.find('{http://www.worldbank.org}date').text, "%Y").timetuple())
+                        except Exception, e:
+                            continue
 
                         event = Event(
                             stanza=input_name,
@@ -54,10 +59,6 @@ class WorldbankScript(Script):
                         for t in wpdata:
                             s += '%s=\"%s\" ' % (t.tag,t.text)
                         event.data = s
-                        try:
-                            timestamp = time.mktime(datetime.datetime.strptime(wpdata.find('{http://www.worldbank.org}date').text, "%Y").timetuple())
-                        except Exception, e:
-                            pass
                         event.time = timestamp
                         ew.write_event(event)
 
