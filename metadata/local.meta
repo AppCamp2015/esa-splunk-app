@@ -65,4 +65,18 @@ export = none
 owner = admin
 version = 6.3.0
 modtime = 1442409166.067376000
+
+[transforms/worldcities]
+access = read : [ * ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1442409824.478180000
+
+[transforms/eucities]
+access = read : [ * ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1442409834.119615000
 >>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
