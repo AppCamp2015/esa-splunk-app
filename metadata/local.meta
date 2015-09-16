@@ -61,22 +61,22 @@ modtime = 1442408926.971289000
 
 [macros/cities]
 access = read : [ * ]
-export = none
+export = system
 owner = admin
 version = 6.3.0
-modtime = 1442409166.067376000
+modtime = 1442410402.896301000
 
 [transforms/worldcities]
 access = read : [ * ]
-export = none
+export = system
 owner = admin
 version = 6.3.0
-modtime = 1442409824.478180000
+modtime = 1442410392.825757000
 
 [transforms/eucities]
 access = read : [ * ]
-export = none
+export = system
 owner = admin
 version = 6.3.0
-modtime = 1442409834.119615000
+modtime = 1442410388.469310000
 >>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
