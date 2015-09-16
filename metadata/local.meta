@@ -34,3 +34,13 @@ modtime = 1442395786.420731000
 owner = admin
 version = 6.3.0
 modtime = 1442395989.554628000
+
+[props/world-json]
+owner = admin
+version = 6.3.0
+modtime = 1442407162.646376000
+
+[indexes/worldcities]
+owner = admin
+version = 6.3.0
+modtime = 1442407472.948719000
