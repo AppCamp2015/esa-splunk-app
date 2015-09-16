@@ -5,3 +5,17 @@ modtime = 1442319261.970305000
 [app/launcher]
 version = 6.3.0
 modtime = 1442319261.973218000
+
+[inputs/script%3A%2F%2F%24SPLUNK_HOME%2Fetc%2Fapps%2Fesa%2Fbin%2Fworldbank.py]
+owner = admin
+version = 6.3.0
+modtime = 1442320911.686641000
+
+[inputs/worldbank%3A%2F%2Flosgehts]
+version = 6.3.0
+modtime = 1442388478.392319000
+
+[indexes/worldbank]
+owner = admin
+version = 6.3.0
+modtime = 1442335220.159461000

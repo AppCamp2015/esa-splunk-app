@@ -37,16 +37,20 @@ class WorldbankScript(Script):
                 tree = ET.parse(p)
                 for child in tree.getroot():
                     indicator_id = child.attrib["id"]
-
                     url = "http://api.worldbank.org/countries/all/indicators/%s" \
                           "?date=2000:2015&per_page=4000&format=xml" % indicator_id
-                    f = urllib2.urlopen(url)
+                    ew.log(EventWriter.INFO, url)
+                    try:
+                        f = urllib2.urlopen(url)
+                    except Exception, e:
+                        continue
                     data = ET.parse(f)
                     timestamp = time.mktime(datetime.datetime.strptime('1902', "%Y").timetuple())
-
                     for wpdata in data.getroot():
                         try:
-                            timestamp = time.mktime(datetime.datetime.strptime(wpdata.find('{http://www.worldbank.org}date').text, "%Y").timetuple())
+                            ddd = wpdata.find('{http://www.worldbank.org}date')
+                            if ddd.text:
+                                timestamp = time.mktime(datetime.datetime.strptime(ddd.text, "%Y").timetuple())
                         except Exception, e:
                             continue
 

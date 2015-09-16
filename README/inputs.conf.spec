@@ -1,0 +1,2 @@
+[worldbank://<name>]
+myarg = <value>
