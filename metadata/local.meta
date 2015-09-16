@@ -45,9 +45,24 @@ modtime = 1442407162.646376000
 owner = admin
 version = 6.3.0
 modtime = 1442407472.948719000
-=======
+ = ======
+
 [inputs/monitor%3A%2F%2F%2FUsers%2Frfujara%2FCustomers%2F2015%2FESA%2Fsplunk%2Fetc%2Fapps%2Fesa-splunk-app%2Fdata%2Fcrim_gen]
 owner = admin
 version = 6.2.5
 modtime = 1442406364.275818000
+
+[savedsearches/eucity_filter]
+access = read : [ * ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1442408926.971289000
+
+[macros/cities]
+access = read : [ * ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1442409166.067376000
 >>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
