@@ -33,19 +33,29 @@ class WorldbankScript(Script):
                 import datetime
                 import time
 
-                p = join(dirname(__file__), 'indicators.xml')
-                tree = ET.parse(p)
-                for child in tree.getroot():
-                    indicator_id = child.attrib["id"]
-                    url = "http://api.worldbank.org/countries/all/indicators/%s" \
-                          "?date=2000:2015&per_page=4000&format=xml" % indicator_id
+                p = join(dirname(__file__), 'indicators.txt')
+                with open(p) as f:
+                    content = f.readlines()
+
+                # p = join(dirname(__file__), 'indicators.xml')
+                # tree = ET.parse(p)
+                # for child in tree.getroot():
+
+                for entry in content:
+
+
+                    #indicator_id = child.attrib["id"]
+                    indicator_id = entry.replace("\n", "")
+                    url = "http://api.worldbank.org/countries/all/indicators/%s?date=2000:2015&per_page=4000&format=xml" % indicator_id
                     ew.log(EventWriter.INFO, url)
                     try:
                         f = urllib2.urlopen(url)
                     except Exception, e:
                         continue
+
                     data = ET.parse(f)
                     timestamp = time.mktime(datetime.datetime.strptime('1902', "%Y").timetuple())
+                    lines = ''
                     for wpdata in data.getroot():
                         try:
                             ddd = wpdata.find('{http://www.worldbank.org}date')
@@ -65,6 +75,7 @@ class WorldbankScript(Script):
                         event.data = s
                         event.time = timestamp
                         ew.write_event(event)
+
 
         except:
             ew.log(EventWriter.FATAL, "%s" % traceback.format_exc().replace('\n','      '))

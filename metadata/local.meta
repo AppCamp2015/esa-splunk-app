@@ -13,9 +13,24 @@ modtime = 1442320911.686641000
 
 [inputs/worldbank%3A%2F%2Flosgehts]
 version = 6.3.0
-modtime = 1442388478.392319000
+modtime = 1442392702.382604000
 
 [indexes/worldbank]
 owner = admin
 version = 6.3.0
-modtime = 1442335220.159461000
+modtime = 1442391239.249989000
+
+[inputs/monitor%3A%2F%2F%2Fsplunk%2Fprojects%2FESACamp%2Fsplunk%2Fetc%2Fapps%2Fesa%2Fdata%2Fcrim_gen]
+owner = admin
+version = 6.3.0
+modtime = 1442396201.995843000
+
+[indexes/crime]
+owner = admin
+version = 6.3.0
+modtime = 1442395786.420731000
+
+[props/crime_csv]
+owner = admin
+version = 6.3.0
+modtime = 1442395989.554628000
