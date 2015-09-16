@@ -12,8 +12,8 @@ version = 6.3.0
 modtime = 1442320911.686641000
 
 [inputs/worldbank%3A%2F%2Flosgehts]
-version = 6.3.0
-modtime = 1442392702.382604000
+version = 6.2.5
+modtime = 1442406293.618464000
 
 [indexes/worldbank]
 owner = admin
@@ -22,8 +22,8 @@ modtime = 1442391239.249989000
 
 [inputs/monitor%3A%2F%2F%2Fsplunk%2Fprojects%2FESACamp%2Fsplunk%2Fetc%2Fapps%2Fesa%2Fdata%2Fcrim_gen]
 owner = admin
-version = 6.3.0
-modtime = 1442396201.995843000
+version = 6.2.5
+modtime = 1442406361.434633000
 
 [indexes/crime]
 owner = admin
@@ -35,6 +35,7 @@ owner = admin
 version = 6.3.0
 modtime = 1442395989.554628000
 
+<<<<<<< HEAD
 [props/world-json]
 owner = admin
 version = 6.3.0
@@ -44,3 +45,9 @@ modtime = 1442407162.646376000
 owner = admin
 version = 6.3.0
 modtime = 1442407472.948719000
+=======
+[inputs/monitor%3A%2F%2F%2FUsers%2Frfujara%2FCustomers%2F2015%2FESA%2Fsplunk%2Fetc%2Fapps%2Fesa-splunk-app%2Fdata%2Fcrim_gen]
+owner = admin
+version = 6.2.5
+modtime = 1442406364.275818000
+>>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
