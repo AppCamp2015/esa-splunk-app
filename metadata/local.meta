@@ -121,4 +121,25 @@ export = system
 owner = admin
 version = 6.3.0
 modtime = 1442425222.754952000
+
+[macros/crimefilter]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442479145.676998000
+
+[macros/bboxtocountries%284%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442480365.619170000
+
+[macros/co2countrybbox%284%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442481208.356041000
 >>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
