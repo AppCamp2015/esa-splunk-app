@@ -35,7 +35,6 @@ owner = admin
 version = 6.3.0
 modtime = 1442395989.554628000
 
-<<<<<<< HEAD
 [props/world-json]
 owner = admin
 version = 6.3.0
@@ -45,7 +44,6 @@ modtime = 1442407162.646376000
 owner = admin
 version = 6.3.0
 modtime = 1442407472.948719000
- = ======
 
 [inputs/monitor%3A%2F%2F%2FUsers%2Frfujara%2FCustomers%2F2015%2FESA%2Fsplunk%2Fetc%2Fapps%2Fesa-splunk-app%2Fdata%2Fcrim_gen]
 owner = admin
@@ -115,7 +113,7 @@ owner = admin
 version = 6.3.0
 modtime = 1442423989.942641000
 
-[macros/co2country_bbox%284%29]
+[macros/crimefilter]
 access = read : [ * ]
 export = system
 owner = admin
@@ -126,4 +124,25 @@ modtime = 1442425222.754952000
 owner = admin
 version = 6.3.0
 modtime = 1442477089.424600000
->>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
+
+[macros/bboxtocountries%284%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442482267.746755000
+
+[macros/co2countrybbox%284%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442481208.356041000
+
+[macros/crimecountrybbox%284%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442482892.883251000
+
