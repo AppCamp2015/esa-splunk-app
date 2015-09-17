@@ -12,8 +12,8 @@ version = 6.3.0
 modtime = 1442320911.686641000
 
 [inputs/worldbank%3A%2F%2Flosgehts]
-version = 6.2.5
-modtime = 1442406293.618464000
+version = 6.3.0
+modtime = 1442475560.072632000
 
 [indexes/worldbank]
 owner = admin
@@ -121,4 +121,9 @@ export = system
 owner = admin
 version = 6.3.0
 modtime = 1442425222.754952000
+
+[inputs/monitor%3A%2F%2F%2Fhome%2Fec2-user%2Fsplunk%2Fetc%2Fapps%2Fesa-splunk-app%2Fdata%2Fcrim_gen]
+owner = admin
+version = 6.3.0
+modtime = 1442477089.424600000
 >>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
