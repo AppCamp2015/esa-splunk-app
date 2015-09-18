@@ -22,8 +22,8 @@ modtime = 1442391239.249989000
 
 [inputs/monitor%3A%2F%2F%2Fsplunk%2Fprojects%2FESACamp%2Fsplunk%2Fetc%2Fapps%2Fesa%2Fdata%2Fcrim_gen]
 owner = admin
-version = 6.2.5
-modtime = 1442406361.434633000
+version = 6.3.0
+modtime = 1442595241.073867000
 
 [indexes/crime]
 owner = admin
@@ -92,24 +92,10 @@ owner = admin
 version = 6.3.0
 modtime = 1442414186.096989000
 
-[macros/crimefilter]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442425222.754952000
-
 [inputs/monitor%3A%2F%2F%2Fhome%2Fec2-user%2Fsplunk%2Fetc%2Fapps%2Fesa-splunk-app%2Fdata%2Fcrim_gen]
 owner = admin
 version = 6.3.0
 modtime = 1442477089.424600000
-
-[macros/crimecountrybbox%284%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442512392.858921000
 
 [macros/make_eu_relative]
 access = read : [ * ]
@@ -195,6 +181,41 @@ modtime = 1442587413.837573000
 [inputs/monitor%3A%2F%2F%2Fvar%2Fwww%2Frails%2FDataHarvester%2Ftransects%2F%2A.json]
 owner = admin
 version = 6.3.0
-modtime = 1442589041.175905000
+modtime = 1442595167.899816000
+
+[savedsearches/Generate%20crime_country_norm.csv]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442596958.362787000
+
+[macros/crime_events_combined%286%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442595710.275626000
+
+[savedsearches/Generate%20crime_min_max_by_type.csv]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442596905.293685000
+
+[transforms/crime_country_norm]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442597055.333924000
+
+[transforms/crime_min_max_by_type]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442597064.697992000
 
 >>>>>>> 58c95344e5da4385227c345c60e467ee31cba2f0
