@@ -166,7 +166,7 @@ access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
-modtime = 1442511612.314469000
+modtime = 1442586643.871391000
 
 [macros/bboxtocountries%286%29]
 access = read : [ * ]
@@ -180,9 +180,16 @@ owner = admin
 version = 6.3.0
 modtime = 1442566858.473857000
 
-[indexes/sattelite]
+[inputs/monitor%3A%2F%2F%2Fhome%2Fec2-user%2Ftransects1%2F%2A.json]
 owner = admin
 version = 6.3.0
-modtime = 1442566960.642586000
+modtime = 1442585494.619115000
+
+[macros/city_list%286%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442587413.837573000
 
 >>>>>>> 58c95344e5da4385227c345c60e467ee31cba2f0
