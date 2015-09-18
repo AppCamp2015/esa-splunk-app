@@ -50,13 +50,6 @@ owner = admin
 version = 6.2.5
 modtime = 1442406364.275818000
 
-[savedsearches/eucity_filter]
-access = read : [ * ]
-export = none
-owner = admin
-version = 6.3.0
-modtime = 1442408926.971289000
-
 [macros/cities]
 access = read : [ * ]
 export = system
@@ -99,20 +92,6 @@ owner = admin
 version = 6.3.0
 modtime = 1442414186.096989000
 
-[savedsearches/CO2emissionPerEUCountry]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442415131.816713000
-
-[macros/bboxtocity%284%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442423989.942641000
-
 [macros/crimefilter]
 access = read : [ * ]
 export = system
@@ -125,26 +104,12 @@ owner = admin
 version = 6.3.0
 modtime = 1442477089.424600000
 
-[macros/bboxtocountries%284%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442482267.746755000
-
 [macros/crimecountrybbox%284%29]
 access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
-modtime = 1442482892.883251000
-
-[macros/pollution_events_combined%284%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442507799.506943000
+modtime = 1442512392.858921000
 
 [macros/make_eu_relative]
 access = read : [ * ]
@@ -158,49 +123,28 @@ access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
-modtime = 1442506398.578743000
+modtime = 1442512535.207866000
 
 [savedsearches/Generate%20pollution_min_max_by_type.csv]
 access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
-modtime = 1442506850.325550000
+modtime = 1442512501.419286000
 
 [macros/pollution_events_combined%286%29]
 access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
-modtime = 1442508024.113763000
-
-[macros/co2countrybbox%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442509166.117280000
-
-[macros/greenhousegasescountrybbox%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442509034.922263000
-
-[macros/methanecountrybbox%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442509161.785755000
+modtime = 1442512207.129539000
 
 [macros/pollution_chart%286%29]
 access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
-modtime = 1442509742.057799000
+modtime = 1442511802.343736000
 
 [transforms/pollution_country_norm]
 access = read : [ * ]
@@ -215,4 +159,18 @@ export = system
 owner = admin
 version = 6.3.0
 modtime = 1442508417.539280000
+
+[macros/bboxtocity%286%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442511612.314469000
+
+[macros/bboxtocountries%286%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442511667.136151000
 
