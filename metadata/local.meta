@@ -142,4 +142,9 @@ export = system
 owner = admin
 version = 6.3.0
 modtime = 1442482892.883251000
+
+[inputs/monitor%3A%2F%2F%2Fsplunk%2Fprojects%2FESACamp%2FData%2Ftransects]
+owner = admin
+version = 6.3.0
+modtime = 1442512977.676452000
 >>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
