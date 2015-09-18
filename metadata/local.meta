@@ -218,4 +218,53 @@ owner = admin
 version = 6.3.0
 modtime = 1442597064.697992000
 
+[macros/crime_chart%288%29]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 6.3.0
+modtime = 1442598368.960279000
+
+[macros/bboxtocity%288%29]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 6.3.0
+modtime = 1442598615.140136000
+
+[macros/bboxtocountries%288%29]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 6.3.0
+modtime = 1442598382.224760000
+
+[macros/city_list%288%29]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 6.3.0
+modtime = 1442598388.483984000
+
+[macros/crime_events_combined%288%29]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 6.3.0
+modtime = 1442598402.273112000
+
+[macros/pollution_chart%288%29]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 6.3.0
+modtime = 1442598405.747529000
+
+[macros/pollution_events_combined%288%29]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 6.3.0
+modtime = 1442598408.855586000
+
 >>>>>>> 58c95344e5da4385227c345c60e467ee31cba2f0
