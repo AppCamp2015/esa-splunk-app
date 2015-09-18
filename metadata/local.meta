@@ -192,4 +192,9 @@ owner = admin
 version = 6.3.0
 modtime = 1442587413.837573000
 
+[inputs/monitor%3A%2F%2F%2Fvar%2Fwww%2Frails%2FDataHarvester%2Ftransects%2F%2A.json]
+owner = admin
+version = 6.3.0
+modtime = 1442589041.175905000
+
 >>>>>>> 58c95344e5da4385227c345c60e467ee31cba2f0
