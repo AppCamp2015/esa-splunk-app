@@ -147,14 +147,6 @@ version = 6.3.0
 <<<<<<< HEAD
 modtime = 1442482892.883251000
 
-[inputs/monitor%3A%2F%2F%2Fsplunk%2Fprojects%2FESACamp%2FData%2Ftransects]
-owner = admin
-version = 6.3.0
-modtime = 1442512977.676452000
->>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
-=======
-modtime = 1442511802.343736000
-
 [transforms/pollution_country_norm]
 access = read : [ * ]
 export = system
@@ -182,5 +174,15 @@ export = system
 owner = admin
 version = 6.3.0
 modtime = 1442511667.136151000
+
+[props/sattelite]
+owner = admin
+version = 6.3.0
+modtime = 1442566858.473857000
+
+[indexes/sattelite]
+owner = admin
+version = 6.3.0
+modtime = 1442566960.642586000
 
 >>>>>>> 58c95344e5da4385227c345c60e467ee31cba2f0
