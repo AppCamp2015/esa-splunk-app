@@ -12,8 +12,8 @@ version = 6.3.0
 modtime = 1442320911.686641000
 
 [inputs/worldbank%3A%2F%2Flosgehts]
-version = 6.2.5
-modtime = 1442406293.618464000
+version = 6.3.0
+modtime = 1442475560.072632000
 
 [indexes/worldbank]
 owner = admin
@@ -35,7 +35,6 @@ owner = admin
 version = 6.3.0
 modtime = 1442395989.554628000
 
-<<<<<<< HEAD
 [props/world-json]
 owner = admin
 version = 6.3.0
@@ -45,19 +44,11 @@ modtime = 1442407162.646376000
 owner = admin
 version = 6.3.0
 modtime = 1442407472.948719000
- = ======
 
 [inputs/monitor%3A%2F%2F%2FUsers%2Frfujara%2FCustomers%2F2015%2FESA%2Fsplunk%2Fetc%2Fapps%2Fesa-splunk-app%2Fdata%2Fcrim_gen]
 owner = admin
 version = 6.2.5
 modtime = 1442406364.275818000
-
-[savedsearches/eucity_filter]
-access = read : [ * ]
-export = none
-owner = admin
-version = 6.3.0
-modtime = 1442408926.971289000
 
 [macros/cities]
 access = read : [ * ]
@@ -101,46 +92,59 @@ owner = admin
 version = 6.3.0
 modtime = 1442414186.096989000
 
-[savedsearches/CO2emissionPerEUCountry]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442415131.816713000
-
-[macros/bboxtocity%284%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442423989.942641000
-
 [macros/crimefilter]
 access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
-modtime = 1442482714.300334000
+modtime = 1442425222.754952000
 
-[macros/bboxtocountries%284%29]
-access = read : [ * ]
-export = system
+[inputs/monitor%3A%2F%2F%2Fhome%2Fec2-user%2Fsplunk%2Fetc%2Fapps%2Fesa-splunk-app%2Fdata%2Fcrim_gen]
 owner = admin
 version = 6.3.0
-modtime = 1442482267.746755000
-
-[macros/co2countrybbox%284%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442481208.356041000
+modtime = 1442477089.424600000
 
 [macros/crimecountrybbox%284%29]
 access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
+modtime = 1442512392.858921000
+
+[macros/make_eu_relative]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442505673.762704000
+
+[savedsearches/Generate%20pollution_country_norm.csv]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442512535.207866000
+
+[savedsearches/Generate%20pollution_min_max_by_type.csv]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442512501.419286000
+
+[macros/pollution_events_combined%286%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442563023.155424000
+
+[macros/pollution_chart%286%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+<<<<<<< HEAD
 modtime = 1442482892.883251000
 
 [inputs/monitor%3A%2F%2F%2Fsplunk%2Fprojects%2FESACamp%2FData%2Ftransects]
@@ -148,3 +152,35 @@ owner = admin
 version = 6.3.0
 modtime = 1442512977.676452000
 >>>>>>> 012094c07caa649cc8a7046ee37728a488d8e398
+=======
+modtime = 1442511802.343736000
+
+[transforms/pollution_country_norm]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442508287.913399000
+
+[transforms/pollution_min_max_by_type]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442508417.539280000
+
+[macros/bboxtocity%286%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442511612.314469000
+
+[macros/bboxtocountries%286%29]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.3.0
+modtime = 1442511667.136151000
+
+>>>>>>> 58c95344e5da4385227c345c60e467ee31cba2f0
