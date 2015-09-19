@@ -197,30 +197,6 @@ owner = admin
 version = 6.3.0
 modtime = 1442665045.299849000
 
-[macros/bboxtocity%2812%29]
-version = 6.3.0
-modtime = 1442667406.035294000
-
-[macros/greenness_events_combined%2812%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442668633.830983000
-
-[savedsearches/Generate%20greenness_country_norm.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442668805.622855000
-
-[savedsearches/Generate%20greenness_min_max_by_type.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442668809.423180000
 
 [transforms/greenness_country_norm]
 access = read : [ * ]
