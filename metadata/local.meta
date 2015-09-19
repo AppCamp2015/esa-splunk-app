@@ -50,13 +50,6 @@ owner = admin
 version = 6.2.5
 modtime = 1442406364.275818000
 
-[macros/cities]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442410402.896301000
-
 [transforms/worldcities]
 access = read : [ * ]
 export = system
@@ -78,60 +71,18 @@ owner = admin
 version = 6.3.0
 modtime = 1442413634.468525000
 
-[macros/countries]
+[macros]
 access = read : [ * ]
 export = system
-owner = admin
-version = 6.3.0
-modtime = 1442414181.623694000
 
-[macros/countrytocity%281%29]
+[savedsearches]
 access = read : [ * ]
 export = system
-owner = admin
-version = 6.3.0
-modtime = 1442414186.096989000
 
 [inputs/monitor%3A%2F%2F%2Fhome%2Fec2-user%2Fsplunk%2Fetc%2Fapps%2Fesa-splunk-app%2Fdata%2Fcrim_gen]
 owner = admin
 version = 6.3.0
 modtime = 1442477089.424600000
-
-[macros/make_eu_relative]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442665477.582771000
-
-[savedsearches/Generate%20pollution_country_norm.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442512535.207866000
-
-[savedsearches/Generate%20pollution_min_max_by_type.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442512501.419286000
-
-[macros/pollution_events_combined%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442563023.155424000
-
-[macros/pollution_chart%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-<<<<<<< HEAD
-modtime = 1442482892.883251000
 
 [transforms/pollution_country_norm]
 access = read : [ * ]
@@ -147,20 +98,6 @@ owner = admin
 version = 6.3.0
 modtime = 1442508417.539280000
 
-[macros/bboxtocity%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442586643.871391000
-
-[macros/bboxtocountries%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442511667.136151000
-
 [props/sattelite]
 owner = admin
 version = 6.3.0
@@ -171,38 +108,10 @@ owner = admin
 version = 6.3.0
 modtime = 1442585494.619115000
 
-[macros/city_list%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442587413.837573000
-
 [inputs/monitor%3A%2F%2F%2Fvar%2Fwww%2Frails%2FDataHarvester%2Ftransects%2F%2A.json]
 owner = admin
 version = 6.3.0
 modtime = 1442595167.899816000
-
-[savedsearches/Generate%20crime_country_norm.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442596958.362787000
-
-[macros/crime_events_combined%286%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442595710.275626000
-
-[savedsearches/Generate%20crime_min_max_by_type.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442596905.293685000
 
 [transforms/crime_country_norm]
 access = read : [ * ]
@@ -218,55 +127,6 @@ owner = admin
 version = 6.3.0
 modtime = 1442597064.697992000
 
-[macros/crime_chart%288%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442657849.928758000
-
-[macros/bboxtocity%288%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442598615.140136000
-
-[macros/bboxtocountries%288%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442598382.224760000
-
-[macros/city_list%288%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442598388.483984000
-
-[macros/crime_events_combined%288%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442598402.273112000
-
-[macros/pollution_chart%288%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442657855.502307000
-
-[macros/pollution_events_combined%288%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442655929.797357000
-
 [transforms/airquality_avg_city_country]
 access = read : [ * ]
 export = system
@@ -274,61 +134,12 @@ owner = admin
 version = 6.3.0
 modtime = 1442650125.374574000
 
-[savedsearches/Generate%20airquality_avg_city_country.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442650173.323943000
-
-[savedsearches/EU_population]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442650765.613638000
-
 [transforms/eucountriespopulation]
 access = read : [ * ]
 export = system
 owner = admin
 version = 6.3.0
 modtime = 1442650805.036948000
-
-[macros/twitter%288%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442653502.172181000
-
-[savedsearches/Generate%20brightness_avg_city_country.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442653781.882729000
-
-[macros/health_events_combined%288%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442656410.294249000
-
-[savedsearches/Generate%20health_country_norm.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442656461.771414000
-
-[savedsearches/Generate%20health_min_max_by_type.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442656576.582026000
 
 [transforms/brightness_avg_city_country]
 access = read : [ * ]
@@ -350,48 +161,6 @@ export = system
 owner = admin
 version = 6.3.0
 modtime = 1442656666.554074000
-
-[macros/health_chart%288%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442657834.812185000
-
-[savedsearches/Generate%20urbanness_avg_city_country.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442661837.867780000
-
-[savedsearches/Generate%20leafindex_avg_city_country.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442663266.440079000
-
-[macros/urbanness_events_combined%2810%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442664830.237001000
-
-[savedsearches/Generate%20urbanness_country_norm.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442664868.715520000
-
-[savedsearches/Generate%20urbanness_min_max_by_type.csv]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442664912.648191000
 
 [transforms/LandCoverDescription]
 access = read : [ * ]
@@ -428,88 +197,5 @@ owner = admin
 version = 6.3.0
 modtime = 1442665045.299849000
 
-[macros/make_eu_relative_no_chart]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442665430.780758000
-
-[macros/bboxtocity%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665570.432445000
-
-[macros/bboxtocountries%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665574.899709000
-
-[macros/city_list%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665580.224779000
-
-[macros/crime_chart%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665584.552876000
-
-[macros/crime_events_combined%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665588.332543000
-
-[macros/health_chart%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665592.952522000
-
-[macros/health_events_combined%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665597.758513000
-
-[macros/pollution_chart%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665602.115628000
-
-[macros/pollution_events_combined%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665605.934048000
-
-[macros/twitter%2810%29]
-access = read : [ * ], write : [ admin, power ]
-export = system
-owner = nobody
-version = 6.3.0
-modtime = 1442665610.558187000
-
-[macros/urbanness_chart%2810%29]
-access = read : [ * ]
-export = system
-owner = admin
-version = 6.3.0
-modtime = 1442666000.562486000
 
 >>>>>>> 58c95344e5da4385227c345c60e467ee31cba2f0
