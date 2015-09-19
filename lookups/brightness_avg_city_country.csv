@@ -1,0 +1,859 @@
+sourcetype,city,value,country
+"simS3seriesNighttimeLightsGlob/brightness",Aabenraa,"10.060000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Aalborg,"17.640000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Aalst,"49.250000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Aars,"7.366000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Aarschot,"43.108000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Aberdeen,"19.698000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Agros,"8.832000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Akaki,"16.230000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Akhyritou,"17.094000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Akrotiri,"12.630000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Alambra,"24.136000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Albertslund,"37.386000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Alethriko,"18.376000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Alkmaar,"26.042000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Almelo,"23.252000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness","Almere Stad","24.420000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness","Alphen aan den Rijn","48.524000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Altmunster,"11.922000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Amersfoort,"35.628000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Amstelveen,"49.182000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Amsterdam,"43.238000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness","Amsterdam-Zuidoost","40.718000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Amstetten,"10.474000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Anaphotia,"16.320000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Andenne,"24.064000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Ans,"42.960000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Ansfelden,"22.204000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Antwerp,"51.742000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Apeldoorn,"20.046000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Aradhiou,"20.866000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Aradhippou,"19.680000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Argaka,"2.266000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Arhus,"20.624000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Arlon,"21.922000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Arnhem,"30.646000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Asenovgrad,"13.194000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Asse,"54.348000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Assen,"16.434000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Astromeritis,"9.514000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Ath,"29.470000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Athienou,"21.812000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Athna,"16.668000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Avgorou,"17.030000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Ayia Napa","11.410000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Ayios Tykhonas","13.388000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Aytos,"4.928000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Bad Ischl","6.896000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Bad Voslau","25.594000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Baden,"31.094000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Balchik,"3.966000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Ballerup,"39.670000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Bansko,"3.060000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Basildon,"41.024000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Basingstoke,"22.722000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Bath,"27.664000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Bedekovcina,"17.674000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Bedford,"23.040000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Beersel,"50.892000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Belene,"3.464000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Belfast,"31.232000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Beli Manastir","6.278000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Belisce,"7.574000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Beloslav,"10.272000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Benesov,"13.870000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Bergen op Zoom","24.178000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Beringen,"39.336000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Berkovitsa,"1.940000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Berndorf,"20.386000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Beroun,"16.916000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Beveren,"47.550000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Bibinje,"13.552000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Bilina,"18.500000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Bilina Kyselka","18.614000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Bilzen,"41.420000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Binche,"32.540000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","Biograd na Moru","9.514000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Birkenhead,"41.418000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Birkerod,"31.088000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Birmingham,"54.700000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Bischofshofen,"9.468000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Bjelovar,"8.544000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Bjerringbro,"8.334000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Blackburn,"31.652000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Blackpool,"18.546000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Blagoevgrad,"3.774000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Blansko,"14.034000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Blato,"1.716000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Bludenz,"10.928000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Bohumin,"37.818000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Bolton,"51.776000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Born,"36.178000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Borovo,"9.160000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Bosnjaci,"8.596000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Botevgrad,"2.020000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Bournemouth,"20.620000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Bradford,"46.412000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Brandys nad Labem-Stara Boleslav","22.406000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Branik,"38.388000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Brasschaat,"45.858000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","Braunau am Inn","10.502000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Brecht,"39.680000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Breclav,"10.182000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Breda,"36.448000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Bregenz,"21.282000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Brighton,"20.746000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Bristol,"34.532000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Brno,"21.382000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Bronderslev,"10.514000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Bruck an der Mur","7.744000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Brugge,"30.652000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Bruntal,"7.914000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Brussels,"55.712000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Burgas,"10.580000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Byala Slatina","3.494000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Cakovec,"17.094000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Cambridge,"20.886000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Capelle-West","51.918000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Cardiff,"36.004000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Cepin,"13.020000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Cerna,"12.128000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Cerny Most","33.914000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Ceska Lipa","10.968000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Ceska Trebova","11.798000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Ceske Budejovice","13.684000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Cesky Tesin","27.364000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Charleroi,"36.658000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Charlottenlund,"31.728000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Chatelet,"34.232000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Cheb,"10.682000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Chelmsford,"27.168000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Cheltenham,"20.154000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Cherven Bryag","3.690000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Chester,"42.890000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Chirpan,"5.836000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Chomutov,"15.804000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Chrudim,"15.566000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Colchester,"17.306000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Copenhagen,"32.802000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Courcelles,"41.898000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Coventry,"39.028000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Crawley,"32.304000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Crikvenica,"12.808000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Dalj,"7.524000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Darda,"10.450000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Darlington,"26.308000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Daruvar,"3.152000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Decin,"11.592000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Deinze,"41.568000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Delft,"50.616000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Delnice,"5.194000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Den Helder","7.340000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Dendermonde,"49.802000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Derby,"33.992000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Deutschlandsberg,"9.994000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Deventer,"22.750000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Devin,"1.528000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Devnya,"6.808000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Dhali,"27.566000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Dherinia,"13.852000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Dhromolaxia,"17.762000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Diest,"38.802000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Dilbeek,"53.934000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Dimitrovgrad,"7.964000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Dobrich,"3.796000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Doetinchem,"22.030000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Dordrecht,"39.626000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Dornbirn,"22.386000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Dragor,"21.822000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Dryanovo,"9.290000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Dubrovnik,"5.592000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Dudley,"49.210000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Dundee,"16.782000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Dupnitsa,"5.134000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Dvur Kralove nad Labem","13.618000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Eastbourne,"10.334000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Ebeltoft,"4.326000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Ebensee,"8.610000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Ebreichsdorf,"31.888000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Ede,"30.358000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Edegem,"57.404000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Edinburgh,"33.854000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Eindhoven,"35.834000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Elkhovo,"2.162000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Emba,"10.884000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Emmen,"17.878000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Engerwitzdorf,"17.218000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Enns,"20.008000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Enschede,"24.714000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Ergates,"23.664000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Erimi,"13.944000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Esbjerg,"9.134000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Espergaerde,"20.828000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Etropole,"4.472000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Evdhimou,"7.064000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Evergem,"38.930000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Evrykhou,"6.962000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Exeter,"13.244000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Faaborg,"6.054000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Famagusta,"13.310000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Farum,"33.704000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Feldkirch,"25.238000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Feldkirchen in Karnten","8.688000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Finkenstein am Faaker See","12.702000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Flemalle-Haute","38.776000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Fleurus,"37.426000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Flong,"26.606000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Fohnsdorf,"6.264000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Fredensborg,"19.628000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Fredericia,"14.188000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Frederiksberg,"36.266000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Frederikshavn,"5.842000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Frederikssund,"12.738000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Frederiksvaerk,"8.608000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Frydek-Mistek","30.359000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Gabrovo,"5.359000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Galata,"6.880000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Ganserndorf,"13.082000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Garesnica,"3.952000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Gateshead,"47.452000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Geel,"36.958000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","General-Toshevo","2.268000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Genk,"39.084000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Gent,"43.792000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Geraardsbergen,"34.558000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","Gerasdorf bei Wien","28.924000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Gillingham,"43.912000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Glasgow,"42.280000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Glostrup,"38.454000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Gloucester,"21.312000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Gmunden,"11.470000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Gospic,"3.902000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Gotse Delchev","2.020000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Gotzis,"24.846000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Gouda,"40.320000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Graz,"19.670000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Grenaa,"3.340000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Greve,"30.658000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Grimbergen,"57.472000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Grindsted,"5.834000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Groningen,"19.262000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness","Gross-Enzersdorf","31.146000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Gunja,"10.474000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Haarlem,"39.876000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Haderslev,"7.618000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Halifax,"43.906000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Halle,"47.926000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Hallein,"18.518000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Hamme,"47.926000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Hard,"23.406000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Hardenberg,"14.584000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Harelbeke,"47.720000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Harlow,"26.278000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Harrogate,"22.782000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Hartlepool,"29.402000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Haslev,"12.054000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Hasselt,"40.984000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Hastings,"9.102000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Havirov,"33.388000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Havlickuv Brod","8.826000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Hedensted,"14.504000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Heerhugowaard,"25.838000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Heerlen,"37.752000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness","Heist-op-den-Berg","46.550000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Helsinge,"10.324000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Helsingor,"23.870000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Hemel Hempstead","41.424000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Herentals,"40.078000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Herning,"9.580000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Herstal,"44.074000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","High Wycombe","33.132000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Hillerod,"20.794000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Hilversum,"39.810000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Hjorring,"7.510000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Hoboken,"56.644000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Hobro,"8.446000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Hodonin,"12.458000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Hohenems,"23.900000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Holbaek,"8.916000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Hollabrunn,"8.092000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Holstebro,"8.924000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Hoofddorp,"49.348000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Hoorn,"19.230000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Horsens,"12.846000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Horsholm,"26.816000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Hradec Kralove","14.362000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Hranice,"10.376000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Huddersfield,"45.002000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Humlebaek,"21.240000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Hundested,"4.648000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Hvar,"2.540000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Hvidovre,"38.632000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Ieper,"29.662000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Ikast,"8.654000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Ikhtiman,"3.398000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Ilok,"9.046000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Imotski,"7.704000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Imst,"8.290000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Innsbruck,"14.076000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Ipswich,"20.244000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Ishoj,"33.396000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Isperikh,"3.122000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Ivanec,"14.686000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Ivankovo,"9.760000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Izegem,"45.426000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","Jablonec nad Nisou","18.998000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Jastrebarsko,"18.030000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Jicin,"11.930000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Jihlava,"10.502000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Jindrichuv Hradec","7.002000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Jirkov,"15.720000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Josipovac,"14.544000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Judenburg,"7.340000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Jyllinge,"21.064000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Kadan,"9.530000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Kakopetria,"6.848000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kalavasos,"10.336000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kalundborg,"4.538000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Kampen,"18.598000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Kapellen,"45.386000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Kapfenberg,"7.368000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Karlovac,"12.768000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Karlovo,"3.828000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Karlovy Vary","13.190000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Karnobat,"1.850000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Karvina,"36.128000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Kato Dheftera","24.388000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Kato Pyrgos","1.508000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Katwijk,"34.444000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Kavarna,"2.324000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Kazanluk,"4.314000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Kerkrade,"36.420000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Kharmanli,"4.904000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Khaskovo,"8.046000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Khisarya,"4.750000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Khlorakas,"10.290000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Kingston upon Hull","27.372000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Kissonerga,"10.112000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kiti,"16.026000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kitzbuhel,"12.478000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Kladno,"17.664000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Klagenfurt,"11.886000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Klasterec nad Ohri","9.390000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Klatovy,"6.840000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Klirou,"18.446000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Klosterneuburg,"30.658000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Knin,"2.624000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Knittelfeld,"6.862000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Knokke-Heist","18.040000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Koflach,"6.000000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Koge,"21.856000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Kokkini Trimithia","23.930000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kolding,"14.072000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Kolin,"13.308000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Kolossi,"13.948000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Kongens Lyngby","37.080000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Konia,"10.748000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kophinou,"12.626000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Koprivnica,"9.308000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Koprivnice,"21.320000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Korneuburg,"25.858000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Kornos,"20.044000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Korsor,"5.726000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Kortrijk,"50.114000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Kostinbrod,"16.294000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Kouklia,"10.798000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kozloduy,"3.298000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Kralupy nad Vltavou","22.646000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Krapina,"13.522000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Krems an der Donau","11.054000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Krichim,"7.998000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Krizevci,"9.884000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Krnov,"9.568000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Kromeriz,"15.266000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Kubrat,"3.054000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Kufstein,"14.754000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Kutina,"5.958000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Kutna Hora","13.396000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Kyperounda,"8.498000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kyrenia,"11.598000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Kyustendil,"2.454000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","La Louviere","36.698000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Laakirchen,"14.126000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Labin,"6.988000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Lanaken,"40.632000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Lapithos,"9.786000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Larnaca,"15.986000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Lauterach,"23.220000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Leeds,"48.860000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Leeuwarden,"11.986000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Lefka,"4.634000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Lefkoniko,"6.902000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Leicester,"32.372000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Leiden,"43.356000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Lelystad,"11.236000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Lemvig,"3.534000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Leoben,"7.150000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Leonarisso,"1.542000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Leonding,"20.956000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Lepoglava,"15.364000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Letnany,"35.914000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Leuven,"43.834000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Levski,"5.042000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Liben,"38.582000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Liberec,"17.832000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Liege,"42.176000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Lienz,"4.688000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Lillerod,"26.794000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Limassol,"14.542000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Lincoln,"14.654000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Linz,"20.098000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Liopetri,"14.592000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Lisburn,"30.528000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Litomerice,"14.076000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Litvinov,"18.290000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Livadhia,"17.492000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Liverpool,"43.514000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Lokeren,"44.242000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Lom,"2.858000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Lommel,"29.502000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",London,"61.934000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Londonderry County Borough","13.078000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Louny,"11.954000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Louvain-la-Neuve","37.714000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Lovech,"3.566000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Ludbreg,"11.488000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Lukovit,"3.380000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Lustenau,"23.600000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Luton,"34.246000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Lyaskovets,"11.968000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Lympia,"27.464000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Lystrup,"19.674000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Lythrodhondas,"20.308000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Lyubimets,"3.552000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Maaseik,"30.468000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Maasmechelen,"43.434000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Maastricht,"41.244000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Maidstone,"30.550000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Makarska,"7.502000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Malarm,"38.746000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Maldegem,"24.718000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Malov,"38.048000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Mammari,"23.332000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Manage,"38.460000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Manchester,"54.128000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Marchtrenk,"21.216000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Maria Enzersdorf","36.884000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Matulji,"12.968000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Mazotos,"14.962000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Mechelen,"57.530000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Melnik,"12.624000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Menen,"50.688000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Meneou,"16.120000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Meniko,"17.686000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Merelbeke,"47.254000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Mesoyi,"10.970000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Metkovic,"9.676000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Mezdra,"2.318000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Middelfart,"13.842000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Middlesbrough,"32.090000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Milton Keynes","28.282000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Mistelbach,"8.896000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Mitsero,"14.688000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Mlada Boleslav","12.856000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Modling,"36.290000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Modrany,"38.892000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Mol,"34.574000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Mons,"31.724000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Montana,"2.816000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Morphou,"6.930000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Mortsel,"56.518000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Mosphiloti,"23.544000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Most,"18.506000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Mouscron,"54.314000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Moutayiaka,"15.178000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Murzzuschlag,"5.324000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Nachod,"11.492000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Naestved,"10.352000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Nakskov,"1.794000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Namur,"27.426000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Nasice,"6.124000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Nedelisce,"16.338000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Neratovice,"20.646000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Neu-Guntramsdorf","36.696000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Neunkirchen,"15.336000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Newcastle upon Tyne","45.622000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Newport,"28.924000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Nicosia,"26.420000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Nieuwegein,"37.808000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Nijmegen,"36.650000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Ninove,"43.888000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Niva,"22.154000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Nivelles,"44.950000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Nordborg,"5.414000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Northampton,"24.162000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Norwich,"18.402000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Nottingham,"42.792000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Nova Gradiska","6.786000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Nova Zagora","5.190000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Novi Pazar","2.248000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Novska,"5.726000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Novy Jicin","18.064000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Nustar,"14.632000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Nyborg,"5.376000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Nykobing Falster","5.486000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Nykobing Mors","6.100000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Odder,"15.122000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Odense,"20.392000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Ogulin,"6.690000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Oldham,"41.446000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Olomouc,"21.466000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Omis,"14.162000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Omurtag,"4.952000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Oostende,"20.102000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Oosterhout,"39.386000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Opatija,"11.478000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Opava,"11.290000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Orahovica,"5.424000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Orlova,"36.992000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Orounda,"13.570000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Osijek,"11.818000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Oss,"33.400000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Ostrava,"32.162000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Ostrov,"11.488000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Otocac,"4.428000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Otok,"10.060000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Otrokovice,"16.556000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Oudenaarde,"39.516000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Oupeye,"43.760000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Overijse,"49.592000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Oxford,"22.138000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Pakhna,"9.544000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pakrac,"3.708000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Palodhia,"16.200000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Panagyurishte,"3.164000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Pano Dheftera","23.988000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Pano Kividhes","11.676000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Pano Lefkara","14.256000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","Pano Polemidhia","13.972000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Paphos,"9.956000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Paralimni,"13.196000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pardubice,"18.154000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Parekklisha,"13.902000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pavlikeni,"6.112000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Pazardzhik,"7.624000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Pazin,"9.150000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Pelendria,"7.918000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pelhrimov,"8.502000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Pera,"23.386000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Perchtoldsdorf,"36.450000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Peristerona,"11.588000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Perivolia,"15.318000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pernik,"11.322000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Peshtera,"7.042000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Peterborough,"20.778000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Petrich,"6.006000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Petrinja,"10.602000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Peyia,"9.744000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Phrenaros,"15.132000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pirdop,"2.856000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Pisek,"6.750000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Pissouri,"5.622000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pitomaca,"6.814000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Pleternica,"10.816000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Pleven,"5.964000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Plovdiv,"15.428000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Plymouth,"13.316000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Plzen,"15.536000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Podstrana,"17.816000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Podvinje,"9.096000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Polemi,"8.714000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Polis,"2.970000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pomorie,"7.980000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Poole,"18.486000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Popovaca,"3.170000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Popovo,"3.836000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Porec,"11.250000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Portsmouth,"22.618000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Pozega,"7.724000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Praha,"40.942000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Preko,"10.382000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Prelog,"11.204000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Prerov,"17.452000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Preston,"27.564000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Pribram,"8.258000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Privlaka,"12.216000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Prosek,"37.394000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Prostejov,"17.242000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Protaras,"10.744000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Provadiya,"4.654000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Psevdhas,"23.912000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Psomolophou,"23.850000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pula,"9.328000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Purkersdorf,"27.838000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Purmerend,"30.912000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Pyla,"17.712000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Pyrgos,"12.356000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Radnevo,"7.944000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Radomir,"8.472000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Rakitovo,"3.686000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Rakovnik,"7.144000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Rakovski,"6.126000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Randers,"11.710000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Rankweil,"27.536000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Razgrad,"3.854000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Razlog,"2.886000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Reading,"27.998000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Ribe,"4.972000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Ried im Innkreis","10.930000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Rijeka,"14.490000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Rijswijk,"45.358000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Ringkobing,"3.588000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Ringsted,"11.106000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Rizokarpaso,"0.728000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Rochdale,"39.910000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Rodovre,"39.296000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Roeselare,"42.858000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Ronne,"2.240000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Ronse,"33.592000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Roosendaal,"28.868000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Roskilde,"20.228000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Rotherham,"49.844000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Rotterdam,"56.156000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Rovinj,"9.720000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Roznov pod Radhostem","17.254000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Rum,"12.670000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Ruse,"10.198000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Saalfelden am Steinernen Meer","9.410000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Saeby,"6.444000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Saint Albans","47.228000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Saint Helens","53.440000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Saint-Ghislain","30.646000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","Saint-Nicolas","41.490000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Salzburg,"19.774000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Samobor,"28.214000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Samokov,"3.950000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Sandanski,"3.982000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Sankt Andra","6.736000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Sankt Johann im Pongau","9.098000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Sankt Polten","13.248000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Sankt Valentin","17.702000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Sankt Veit an der Glan","9.478000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Schiedam,"54.382000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Schoten,"48.088000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Schwaz,"13.350000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Schwechat,"38.850000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Seekirchen Markt","18.088000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Senj,"3.072000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Septemvri,"4.104000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Seraing,"39.512000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Sesvete,"31.732000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Sevlievo,"6.190000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Sheffield,"46.150000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Shumen,"6.004000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Sibenik,"12.838000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Sierning,"17.590000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Silistra,"5.412000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Silkeborg,"11.170000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Simeonovgrad,"7.006000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Sinj,"8.332000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Sint-Niklaas","43.664000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","Sint-Pieters-Leeuw","50.382000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","Sint-Truiden","35.596000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Sisak,"10.246000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Sittard,"38.670000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Skagen,"2.224000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Skanderborg,"15.416000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Skive,"8.038000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Slagelse,"9.870000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Slatina,"3.870000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Slavonski Brod","9.274000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Sliven,"5.762000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Slivnitsa,"6.888000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Slough,"52.316000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Smolyan,"3.916000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Smorumnedre,"36.074000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Sofia,"25.244000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Soignies,"34.196000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Sokolov,"13.694000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Solihull,"47.286000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Solin,"16.934000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Solrod Strand","26.280000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Sonderborg,"4.864000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Soro,"9.328000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Sotira,"12.802000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness","South Shields","35.876000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Southampton,"27.086000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Southend-on-Sea","28.732000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Southport,"28.908000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Spijkenisse,"45.232000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness","Spittal an der Drau","5.220000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Split,"17.122000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Sracinec,"18.650000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Sredets,"2.538000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Stamboliyski,"10.654000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Stara Zagora","8.144000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Stary Bohumin","35.936000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Stenlose,"27.248000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Stevenage,"29.356000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Steyr,"16.322000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Stobrec,"17.704000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Stockerau,"19.558000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Stockport,"51.558000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Stockton-on-Tees","38.840000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Stoke-on-Trent","30.392000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Strakonice,"7.088000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Struer,"7.402000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Sumperk,"10.166000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Sunderland,"35.724000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness","Sutton Coldfield","48.928000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Svendborg,"8.410000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Svilengrad,"3.864000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Svishtov,"4.874000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Svitavy,"10.580000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Svoge,"2.456000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Swansea,"22.804000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Swindon,"17.728000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Taastrup,"33.572000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Tabor,"8.274000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Tala,"11.060000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Tarnby,"28.218000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Telfs,"12.316000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Temse,"50.940000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Tenja,"12.122000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Teplice,"17.270000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Ternitz,"12.546000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Tersephanou,"17.016000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Teteven,"2.872000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","The Hague","37.294000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Thisted,"5.396000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Tienen,"31.130000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Tilburg,"33.264000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Timi,"10.836000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Tonchevtsi,"6.828000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Tonder,"3.818000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Tongeren,"42.624000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Tournai,"37.690000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Traiskirchen,"33.280000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Tranbjerg,"22.268000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Traun,"22.018000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Trebic,"8.386000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Trikomo,"5.078000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Trinec,"23.780000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Trnovec,"16.784000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Trofaiach,"5.806000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Trogir,"11.474000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Trorod,"28.250000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Troulli,"18.318000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Troyan,"1.840000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Trutnov,"12.146000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Tryavna,"7.292000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Tsadha,"11.848000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Tubize,"42.562000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Tulln,"16.262000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Turgovishte,"5.296000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Turnhout,"28.948000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Tutrakan,"3.554000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Uherske Hradiste","15.732000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Uhersky Brod","15.920000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Umag,"9.950000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Usti nad Labem","15.960000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Utrecht,"43.306000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Vaerlose,"37.380000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Valasske Mezirici","16.264000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Vallensbaek,"35.944000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Valpovo,"9.488000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Varazdin,"17.490000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Varde,"9.210000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Varna,"10.806000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Varnsdorf,"15.860000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Veenendaal,"34.718000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Vejen,"8.000000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Vejle,"13.110000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness","Velden am Worthersee","9.938000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Velika Gorica","35.362000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Veliki Preslav","5.096000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Veliko Turnovo","11.214000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Velingrad,"2.566000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness","Velsen-Zuid","34.878000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Venlo,"28.202000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Verviers,"30.216000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Viborg,"8.428000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Vidin,"4.692000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Villach,"11.860000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Vilvoorde,"56.756000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Vinkovci,"12.316000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Virje,"10.010000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Virovitica,"6.528000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Visnjevac,"13.646000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Vlaardingen,"51.330000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Vocklabruck,"14.594000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Vodice,"10.936000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Voitsberg,"8.480000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Vojens,"8.754000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Volkermarkt,"8.788000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Vordingborg,"8.130000",Denmark
+"simS3seriesNighttimeLightsGlob/brightness",Voroklini,"15.752000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Vratsa,"3.040000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Vrbovec,"13.954000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Vsetin,"14.752000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Vukovar,"10.674000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Vurshets,"1.726000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Vyskov,"12.218000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness","Waidhofen an der Ybbs","8.700000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Wakefield,"52.486000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Walsall,"49.030000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Waregem,"44.296000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Warrington,"54.030000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Waterloo,"50.314000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Watford,"52.506000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Wavre,"39.982000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Weert,"27.080000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness","Weinzierl bei Krems","11.258000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Weiz,"10.756000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Wels,"17.052000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","West Bromwich","55.108000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Westerlo,"40.410000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness","Weston-super-Mare","19.718000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Wetteren,"48.312000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Wevelgem,"51.824000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Wien,"40.776000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Wiener Neudorf","36.696000",Austria
+"simS3seriesNighttimeLightsGlob/brightness","Wiener Neustadt","20.542000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Wigan,"51.956000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Willebroek,"57.842000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Woerden,"37.422000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Woking,"47.446000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Wolfsberg,"5.726000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Wolfurt,"21.982000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Wolverhampton,"40.702000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Worcester,"22.536000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Worgl,"13.506000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Worthing,"16.266000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Xeri,"24.352000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Xylotymbou,"17.950000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Yambol,"9.346000",Bulgaria
+"simS3seriesNighttimeLightsGlob/brightness",Yeri,"26.322000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Yiolou,"7.648000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",York,"15.182000","United Kingdom"
+"simS3seriesNighttimeLightsGlob/brightness",Ypsonas,"14.214000",Cyprus
+"simS3seriesNighttimeLightsGlob/brightness",Zaandam,"45.524000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Zaanstad,"45.004000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Zadar,"11.920000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Zagreb,"38.826000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Zagreb - Centar","39.756000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Zapresic,"33.024000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness",Zatec,"13.184000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Zaventem,"54.700000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Zedelgem,"37.310000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Zeist,"42.800000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness","Zell am See","8.994000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Zlin,"15.710000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Znojmo,"6.490000","Czech Republic"
+"simS3seriesNighttimeLightsGlob/brightness",Zoetermeer,"51.050000",Netherlands
+"simS3seriesNighttimeLightsGlob/brightness",Zottegem,"42.696000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Zupanja,"10.726000",Croatia
+"simS3seriesNighttimeLightsGlob/brightness","Zwettl Stift","7.470000",Austria
+"simS3seriesNighttimeLightsGlob/brightness",Zwevegem,"48.166000",Belgium
+"simS3seriesNighttimeLightsGlob/brightness",Zwolle,"21.036000",Netherlands
