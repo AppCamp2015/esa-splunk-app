@@ -23,7 +23,7 @@ modtime = 1442391239.249989000
 [inputs/monitor%3A%2F%2F%2Fsplunk%2Fprojects%2FESACamp%2Fsplunk%2Fetc%2Fapps%2Fesa%2Fdata%2Fcrim_gen]
 owner = admin
 version = 6.3.0
-modtime = 1442595241.073867000
+modtime = 1442673161.443647000
 
 [indexes/crime]
 owner = admin
@@ -222,6 +222,11 @@ export = system
 owner = admin
 version = 6.3.0
 modtime = 1442671336.502330000
+
+[inputs/monitor%3A%2F%2F%2Fhome%2Fec2-user%2Fnewtransects%2F%2A.json]
+owner = admin
+version = 6.3.0
+modtime = 1442674234.260456000
 
 
 >>>>>>> 58c95344e5da4385227c345c60e467ee31cba2f0
